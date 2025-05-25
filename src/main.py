@@ -12,6 +12,7 @@ def main():
     print("Jimmy")
     print("Hello Hello")
     print("Hello test 2")
+    print("Hello 3")
 
 
 if __name__ == "__main__":
