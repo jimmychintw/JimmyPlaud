@@ -10,6 +10,7 @@ def main():
     print("Hello, World!")
     print("Python project is ready!")
     print("Jimmy")
+    print("Hello Hello")
 
 
 if __name__ == "__main__":
