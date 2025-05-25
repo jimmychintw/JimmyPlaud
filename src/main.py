@@ -11,6 +11,7 @@ def main():
     print("Python project is ready!")
     print("Jimmy")
     print("Hello Hello")
+    print("Hello test 2")
 
 
 if __name__ == "__main__":
